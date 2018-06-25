@@ -1,0 +1,10 @@
+/Users/Guest/Projects/palindronium/palindronium/bin/Debug/netcoreapp1.1/palindronium.deps.json
+/Users/Guest/Projects/palindronium/palindronium/bin/Debug/netcoreapp1.1/palindronium.runtimeconfig.json
+/Users/Guest/Projects/palindronium/palindronium/bin/Debug/netcoreapp1.1/palindronium.runtimeconfig.dev.json
+/Users/Guest/Projects/palindronium/palindronium/obj/Debug/netcoreapp1.1/palindronium.csprojResolveAssemblyReference.cache
+/Users/Guest/Projects/palindronium/palindronium/obj/Debug/netcoreapp1.1/palindronium.csproj.CoreCompileInputs.cache
+/Users/Guest/Projects/palindronium/palindronium/obj/Debug/netcoreapp1.1/palindronium.AssemblyInfo.cs
+/Users/Guest/Projects/palindronium/palindronium/bin/Debug/netcoreapp1.1/palindronium.dll
+/Users/Guest/Projects/palindronium/palindronium/bin/Debug/netcoreapp1.1/palindronium.pdb
+/Users/Guest/Projects/palindronium/palindronium/obj/Debug/netcoreapp1.1/palindronium.dll
+/Users/Guest/Projects/palindronium/palindronium/obj/Debug/netcoreapp1.1/palindronium.pdb
